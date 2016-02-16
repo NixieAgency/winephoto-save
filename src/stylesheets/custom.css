@@ -1,0 +1,35 @@
+.content-profile {
+	position:absolute;
+	left:0;
+}
+
+.content-profile h4 {
+    margin-bottom: 1rem;
+}
+
+.content-profile p:last-child {
+    margin-bottom: 0rem;
+}
+
+.fixed-right-img {
+	position: fixed;
+	right: 0;
+	height: 100vh;
+}
+
+.top-margin {
+    margin-top: 15%;
+}
+
+/* Media Queries
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Smaller than phablet (also point when grid becomes active) */
+@media (max-width: 550px) {
+    .fixed-right-img {
+        display: none; 
+    }
+	.content-profile {
+		background: #fff;
+		padding: 5%;
+	}
+}

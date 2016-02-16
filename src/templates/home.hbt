@@ -1,0 +1,20 @@
+{{> header }}
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="one-half column top-margin content-profile bg-image">
+                {{{ contents }}}
+            </div>
+            <div class="one-half column fixed-right-img">
+            <ul >
+            {{#each images }}
+                <li>
+                    <img src="{{this}}" alt="">
+                </li>
+            {{/each}}
+            </ul>
+            </div>
+        </div>
+    </div>
+</body>
+{{> footer }}
