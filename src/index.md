@@ -4,7 +4,7 @@ layout: home.hbt
 #### **We'll be right back...**
 Thanks for your support! Can you believe it's been two years? We've loved seeing our images on winery websites,
 magazines, blogs and more. For this new year, we've decided to upgrade our infrastructure. Given we are a
-bootstrapped volunteer team -- we ultimately decided to take some down time. In the meantime, we're making our entire 154MB <a href="http://www.winephoto.co/images/winephoto.zip"></a>.
+bootstrapped volunteer team -- we ultimately decided to take some down time. In the meantime, we're making our <a href="http://www.winephoto.co/images/winephoto.zip">entire 154MB image library downloadable.</a>.
 
 #### **Meet the team**
 [Melvin Gruesbeck](http://www.melvingruesbeck.com), [Ron Gruesbeck](http://www.rongruesbeck.com), [Allison Regan](http://www.allisonregan.co/about).
