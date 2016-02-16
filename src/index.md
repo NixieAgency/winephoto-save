@@ -7,7 +7,7 @@ magazines, blogs and more. For this new year, we've decided to upgrade our infra
 bootstrapped volunteer team -- we ultimately decided to take some down time. In the meantime, we're making our <a href="http://www.winephoto.co/images/winephoto.zip">entire 154MB image library downloadable</a>.
 
 #### **Meet the team**
-[Melvin Gruesbeck](http://www.melvingruesbeck.com), [Ron Gruesbeck](http://www.rongruesbeck.com), [Allison Regan](http://www.allisonregan.co/about).
+<a href="http://www.melvingruesbeck.com" target="_blank">Melvin Gruesbeck</a>, <a href="http://www.rongruesbeck.com" target="_blank">Ron Gruesbeck</a>, <a href="http://www.allisonregan.co/about" target="_blank">Allison Regan</a>.
 
 
 #### **Attribution**
