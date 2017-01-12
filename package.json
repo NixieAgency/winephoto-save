@@ -5,9 +5,9 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node --harmony_generators app.js",
-    "deploy": "aws s3 cp build s3://www.winephoto.co --region us-west-1 --recursive --acl public-read",
-    "remove": "aws s3 rm s3://www.winephoto.co --region us-west-1 --recursive"
+    "build": "rm -rf build && node app.js",
+    "deploy": "aws s3 cp build s3://www.winephoto.co --profile nixie --recursive --acl public-read",
+    "remove": "aws s3 rm s3://www.winephoto.co --profile nixie --recursive"
   },
   "author": "Melvin Gruesbeck",
   "license": "ISC",
